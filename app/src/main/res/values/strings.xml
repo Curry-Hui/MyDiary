@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="action_settings">设置</string>
+    <string name="radio_button_item">项目</string>
+    <string name="radio_button_calendar">日历</string>
+    <string name="radio_button_diary">日记</string>
+</resources>
